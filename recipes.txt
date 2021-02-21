@@ -5,5 +5,10 @@ Pasta
 Manchurian
 Chicken Fry
 
+Pizza
+Burger
+
 
 Thankyou
+
+Done
